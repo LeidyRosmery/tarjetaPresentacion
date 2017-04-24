@@ -1,0 +1,57 @@
+#miDiv {
+    border-bottom: 285px solid #3c3c3b;
+    border-left: 170px solid transparent;
+    position: absolute;
+    width: 261px;
+    left: 126px;
+}
+
+#p1 {
+    position: absolute;
+    top: 86px;
+}
+
+#p2 {
+    position: absolute;
+    top: 105px;
+}
+
+#p3 {
+    position: absolute;
+    top: 150px;
+}
+
+.tarjetaPresentacion {
+    background-size: contain;
+    box-sizing: border-box;
+    position: absolute;
+    width: 556px;
+    background-image: url(../img/imagen.png);
+    height: 243px;
+    overflow: hidden;
+}
+
+.dentro {
+    position: absolute;
+    right: 60px;
+    width: 180px;
+    top: -3px;
+}
+
+h1 {
+    color: #fff;
+    text-align: right;
+    top: 40px;
+}
+
+h2 {
+    color: #f5a731;
+    text-align: right;
+    top: 120px;
+}
+
+.personal-info {
+    color: #fff;
+    text-align: left;
+    top: 175px;
+}
